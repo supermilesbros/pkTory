@@ -27,7 +27,7 @@
         v-model="tab"
       >
         <q-route-tab to="/inventory" icon="inventory" label="Inventory" exact />
-        <q-route-tab to="/" icon="home" label="Home" exact />
+        <q-route-tab to="/" icon="home" label="Test" exact />
         <q-route-tab to="/settings" icon="settings" label="Settings" exact />
       </q-tabs>
     </q-footer>
